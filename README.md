@@ -37,7 +37,8 @@ Experienced backend developer/data engineer/fullstack developer, I have a strong
 
 
 ### Where to find me
-
-![Static Badge](https://img.shields.io/badge/-linkedin-000?style=flat&logo=linkedin&logoColor=black&color=white&link=http%3A%2F%2Fwww.linkedin.com%2Fin%2Foleksandrbesan) ![Static Badge](https://img.shields.io/badge/-twitter-000?style=flat&logo=twitter&logoColor=black&color=white&link=https%3A%2F%2Ftwitter.com%2FOleksandrBesan) ![Static Badge](https://img.shields.io/badge/-whatsapp-000?style=flat&logo=whatsapp&logoColor=black&color=white&link=https://wa.me/+380931311800) ![Static Badge](https://img.shields.io/badge/-gmail-000?style=flat&logo=gmail&logoColor=black&color=white&link=oleksandr.besan@gmail.com)
-
+<img alt="Static Badge" src="https://img.shields.io/badge/-linkedin-000?style=flat&logo=linkedin&logoColor=black&color=white&link=http%3A%2F%2Fwww.linkedin.com%2Fin%2Foleksandrbesan">
+<img alt="Static Badge" src="https://img.shields.io/badge/-twitter-000?style=flat&logo=twitter&logoColor=black&color=white&link=https%3A%2F%2Ftwitter.com%2FOleksandrBesan">
+<img alt="Static Badge" src="https://img.shields.io/badge/-whatsapp-000?style=flat&logo=whatsapp&logoColor=black&color=white&link=https://wa.me/+380931311800">
+<img alt="Static Badge" src="https://img.shields.io/badge/-gmail-000?style=flat&logo=gmail&logoColor=black&color=white&link=oleksandr.besan@gmail.com">
 
