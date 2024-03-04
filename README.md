@@ -37,8 +37,8 @@ Experienced backend developer/data engineer/fullstack developer, I have a strong
 
 
 ### Where to find me
-<img alt="Static Badge" src="https://img.shields.io/badge/-linkedin-000?style=flat&logo=linkedin&logoColor=black&color=white&link=http%3A%2F%2Fwww.linkedin.com%2Fin%2Foleksandrbesan">
-<img alt="Static Badge" src="https://img.shields.io/badge/-twitter-000?style=flat&logo=twitter&logoColor=black&color=white&link=https%3A%2F%2Ftwitter.com%2FOleksandrBesan">
-<img alt="Static Badge" src="https://img.shields.io/badge/-whatsapp-000?style=flat&logo=whatsapp&logoColor=black&color=white&link=https://wa.me/+380931311800">
-<img alt="Static Badge" src="https://img.shields.io/badge/-gmail-000?style=flat&logo=gmail&logoColor=black&color=white&link=oleksandr.besan@gmail.com">
+<a href="http://www.linkedin.com/in/oleksandrbesan"><img alt="Static Badge" src="https://img.shields.io/badge/-linkedin-000?style=flat&logo=linkedin&logoColor=black&color=white"></a>
+<a href="https://twitter.com/OleksandrBesan"><img alt="Static Badge" src="https://img.shields.io/badge/-twitter-000?style=flat&logo=twitter&logoColor=black&color=white"></a>
+<a href="https://wa.me/+380931311800"><img alt="Static Badge" src="https://img.shields.io/badge/-whatsapp-000?style=flat&logo=whatsapp&logoColor=black&color=white"></a>
+<a href="mailto:oleksandr.besan@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/-gmail-000?style=flat&logo=gmail&logoColor=black&color=white"></a>
 
