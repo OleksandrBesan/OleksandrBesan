@@ -2,6 +2,8 @@
 
 ### About Me
 
+👨🏻‍💼 / ⚙️ 🌍 /🐍 🐘🤖☁️ 🐳 ⚛️ 🏗️ 🐧/ 🎨 🧠 📚. 👺 ⛩️
+
 Experienced backend developer/data engineer/fullstack developer, I have a strong background in Python for almost 5 years, SQL , and database programming for 10 years, as well as proficiency in server administration and DevOps if needed. 
 
 ### Languages 
